@@ -1,1 +1,23 @@
 /* Add CSS Styling */
+.class1  {
+   color: black;
+   font-size: 18px;
+   background-color: pink;
+}
+
+.class2 {
+  color: black;
+  font-size: 24px;
+  background-color: pink;
+}
+
+#id1 {
+  color: blue;
+  font-size: 42px;
+}
+
+#id2 {
+  color: black;
+  font-size: 32px;
+  background-color: green;
+}
