@@ -46,3 +46,23 @@ a {
 ul {
   list-style-type: none;
 }
+
+/*Solutions*/
+.header {
+  display:flex;
+  justify-content:center;
+  gap: 8px;
+}
+
+.notifications {
+  height: 48px;
+}
+
+ul li{
+  display: inline;
+  margin: 16px;
+}
+.links {
+  padding: 0px;
+  padding-right: 500px;
+}
